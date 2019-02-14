@@ -96,7 +96,7 @@ nbformat==4.4.0
 networkx==2.2
 newrelic==4.4.1.104
 notebook==5.7.4
-numpy==1.11.0
+numpy==1.16.1
 olefile==0.46
 pandas==0.20.3
 pandocfilters==1.4.2
