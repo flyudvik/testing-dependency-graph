@@ -36,7 +36,7 @@ django-configurations==2.1
 django-constance==2.0.0
 django-cors-headers==2.4.0
 django-crispy-forms==1.7.2
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11
 django-easy-timezones==0.8.0
 django-extensions==1.8.0
 django-filter==1.1.0
