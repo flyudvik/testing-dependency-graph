@@ -23,7 +23,7 @@ Deprecated==1.2.4
 deprecation==1.0.1
 dj-database-url==0.5.0
 Django==1.11.20
-django-admin-rangefilter==0.3.9
+django-admin-rangefilter==0.3.12
 django-admin-row-actions==0.0.4
 django-array-tags==0.2.2
 django-audit-log==0.7.0
