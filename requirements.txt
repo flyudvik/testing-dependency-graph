@@ -111,7 +111,7 @@ Pillow==5.4.1
 pluggy==0.8.1
 prometheus-client==0.6.0
 prompt-toolkit==1.0.15
-psutil==5.4.3
+psutil==5.5.1
 psycopg2-binary
 ptyprocess==0.6.0
 py==1.7.0
