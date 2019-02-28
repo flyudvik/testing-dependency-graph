@@ -71,7 +71,7 @@ gtin-validator==1.0.3
 gunicorn==19.7.1
 h5py==2.8.0
 humanize==0.5.1
-imutils==0.4.3
+imutils==0.5.2
 ipaddress==1.0.16
 ipykernel==4.10.0
 ipython==7.3.0
