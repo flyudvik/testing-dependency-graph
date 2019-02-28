@@ -54,7 +54,7 @@ django-tokenapi==0.2.5
 django-versatileimagefield==1.10
 djangorestframework==3.4.6
 docutils==0.14
-drf-extensions==0.3.1
+drf-extensions==0.4.0
 entrypoints==0.2.3
 enum34==1.1.6
 ffmpeg-python==0.1.16
