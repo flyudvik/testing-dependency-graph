@@ -50,7 +50,7 @@ django-redis==4.8.0
 django-speedinfo==1.4.0
 django-storages==1.7.1
 django-test-without-migrations==0.6
-django-tokenapi==0.2.5
+django-tokenapi==1.0
 django-versatileimagefield==1.10
 djangorestframework==3.4.6
 docutils==0.14
