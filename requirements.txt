@@ -64,7 +64,7 @@ funcsigs==1.0.2
 functools32==3.2.3.post2
 future==0.17.1
 futures==3.2.0
-gevent==1.3.7
+gevent==1.4.0
 googlemaps==3.0.2
 greenlet==0.4.15
 gtin-validator==1.0.3
