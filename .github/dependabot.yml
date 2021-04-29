@@ -1,0 +1,36 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "00:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: jupyter-console
+    versions:
+    - 6.2.0
+    - 6.3.0
+  - dependency-name: amqp
+    versions:
+    - 5.0.3
+    - 5.0.5
+  - dependency-name: pyzmq
+    versions:
+    - 22.0.0
+    - 22.0.2
+  - dependency-name: lxml
+    versions:
+    - 4.6.2
+  - dependency-name: more-itertools
+    versions:
+    - 8.6.0
+  - dependency-name: django-cache-memoize
+    versions:
+    - 0.1.7
+  - dependency-name: bleach
+    versions:
+    - 3.1.4
+  - dependency-name: jinja2
+    versions:
+    - 2.10.1
